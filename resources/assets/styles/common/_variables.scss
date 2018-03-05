@@ -1,0 +1,15 @@
+/** Import Bootstrap functions */
+@import "~bootstrap/scss/functions";
+
+$font-family-sans-serif: 'Roboto Slab', serif;
+
+$theme-colors: (
+    primary: #6cb940
+);
+
+$container-max-widths: (
+        sm: 540px,
+        md: 720px,
+        lg: 960px,
+        xl: 1370px
+) !default;
